@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:
+# Date: 30-11-2024
 ## Register Number: 24011485
 ## Name: Nanda Kishor S P
 ## Problem Title
@@ -97,7 +97,7 @@ Razorpay or PayPal for donations.
 ## Dependencies
 
 1. *Development Team:*
-    =>1 Frontend Developer (React.js/React Native).
+    =>1 Frontend Developer (React.js/React Native).\n
     =>1 Backend Developer (Node.js).
 
 2. *Timeline:*

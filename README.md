@@ -97,17 +97,17 @@ Razorpay or PayPal for donations.
 ## Dependencies
 
 1. *Development Team:*
-    =>1 Frontend Developer (React.js/React Native).<br>
+    <br>=>1 Frontend Developer (React.js/React Native).<br>
     =>1 Backend Developer (Node.js).
 
 2. *Timeline:*
-    =>Platform Development: 8-10 weeks.
+    <br>=>Platform Development: 8-10 weeks.
 
 3. *Budget:*
-    =>Cloud Hosting: ₹15,000 annually.<br>
+    <br>=>Cloud Hosting: ₹15,000 annually.<br>
     =>Payment Gateway Integration: ₹5,000 setup.
 
 4. *Third-Party Services:*
-    =>Google Maps API for location-based features.<br>
+    <br>=>Google Maps API for location-based features.<br>
     =>Twilio for notifications.
 

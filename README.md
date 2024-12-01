@@ -15,7 +15,7 @@ Develop a smart alumni ecosystem leveraging AI and IoT for real-time engagement 
 
 1. *AI-Based Engagement Tracker:* Use predictive analytics to identify alumni activity patterns and send personalized notifications, event invites, or contribution requests based on their interests and past interactions.
 2. *IoT for Event Monitoring:* Provide smart ID badges at alumni events to track attendance and participation, creating data insights for better event planning.
-3. *Dynamic Impact Dashboard:* Continuously update the alumni’s contributions, mentoring activities, and achievements on a live portal, accessible to both alumni and the institution.
+3. *Dynamic Impact Dashboard:* Continuously update the alumni's contributions, mentoring activities, and achievements on a live portal, accessible to both alumni and the institution.
 4. *Gamification:* Introduce leaderboards for active participation, rewarding top contributors or mentors to encourage consistent engagement.
 
 
@@ -67,12 +67,16 @@ Develop a smart alumni ecosystem leveraging AI and IoT for real-time engagement 
 
     Use RFID or NFC tags to monitor attendance and engagement during in-person events, providing data for event optimization.
 
+![alt text](<Screenshot 2024-12-01 123104.png>)
+
 ## Use Cases
 
     >> An alumnus registers through the app and updates their professional achievements.
     >> Alumni participate in a reunion event by signing up via the platform.
     >> A student connects with an alumnus mentor for career guidance.
     >> Alumni contribute to a college development fund through the donation portal.
+
+![alt text](<Screenshot 2024-12-01 130207.png>)
 
 ## Technology Stack
 
